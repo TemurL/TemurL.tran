@@ -1,0 +1,14 @@
+html {
+    background-color: #52a5d4;
+}
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    background-color: wheat;
+    padding: 1rem 2rem;
+    border-radius: 15px;
+    border: 3px solid grey;
+    box-shadow:3px 8px 12px 0px black;
+}
